@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: anime
-title: anime
+title: /anime
 permalink: /anime/
 ---
 

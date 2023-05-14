@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: manga
-title: manga
+title: /manga
 permalink: /manga/
 ---
 
