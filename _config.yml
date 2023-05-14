@@ -1,12 +1,12 @@
 title: 'animevictory.github.io'
-description: ":v"
+description: "Covering anime and manga industry news!"
 baseurl: ""
 url: "https://animevictory.github.io"
 
 header_pages:
   - about.md
-  - peter.md
-  - contact.md
+  - anime.md
+  - manga.md
 
 style: light 
 
@@ -14,7 +14,7 @@ footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 # Build settings
 markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console
+
 plugins:
   - jekyll-seo-tag
 
